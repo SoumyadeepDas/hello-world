@@ -12,5 +12,4 @@ Testing again and adding more stuff.
 
 Making another change!
 
-This is my new branch, the test-branch!
-
+This is my master branch!
